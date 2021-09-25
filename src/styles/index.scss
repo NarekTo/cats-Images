@@ -1,0 +1,13 @@
+@import './abstracts/variables';
+@import './abstracts/mixins';
+
+@import './base/base';
+@import './base/animations';
+@import './components/cat';
+@import './components/category';
+@import './components/about';
+
+@import './layout/app';
+@import './layout/header';
+@import './layout/navigation';
+@import './layout/footer';

@@ -1,0 +1,24 @@
+.navigation{
+    height: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    a,
+    a:visited,
+    a:link{
+        text-decoration: none;
+        font-size: 2rem;
+        text-transform:none;
+        color: black;
+        padding: 1rem;
+        transition: all .4s;
+        letter-spacing: .3rem;
+    }
+
+    a.narek{
+        font-size: 4rem;
+        letter-spacing: 1rem;
+    }
+}
